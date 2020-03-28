@@ -56,5 +56,5 @@ https://github.com/anthony2025/react-simon
 #### CONTACT INFORMATION
 anthony2025@pm.me  
 (571) 455-4234  
-Alexandria, VA
+Alexandria, VA  
 Remote Only
