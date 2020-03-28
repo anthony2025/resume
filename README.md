@@ -20,13 +20,15 @@ Familiarity in Python, Java, C++, and Android/iOS.
 - BTS Software Solutions, Independent Consultant, June 2019 – August 2019
   - Worked on the frontend rewrite of a React site. Goals were to improve responsiveness
   across devices, as well as accessibility, internationalization, and user experience.
+  
 - BTS Software Solutions, Software Engineer, August 2017 – June 2019
-  - Conducted the development of a job scheduler and frontend for a scientific data server;
-  leveraging AWS services to allow scientists to run experiments on powerful cloud servers.
-  - Architectured an application for tracking revenue forecasts and personnel hours. Succesfully
-  applied functional programming concepts to halve execution time of risk calculations.
-  - Conducted experiments on a patent pending compression scheme for Machine Learning
-  models. Achieved ratios of up to 4:1 with minimal accuracy losses.
+  - Conducted development of a job scheduler and frontend for a scientific data server;
+  leveraging AWS services to allow scientists to run experiments on more powerful cloud servers.
+  - Architectured an application for tracking personnel hours and calculating forecasts of revenue. 
+  Succesfully applied functional programming concepts to halve execution time of risk calculations.
+  - Conducted experiments on compression schemes for Machine Learning models achieving 
+  ratios of up to 4:1 with minimal accuracy losses.
+  
 - Rose’s Daycare LLC, Web Developer, May 2017 – July 2017  
 https://github.com/anthony2025/roses-daycare
   - Crafted, deployed and maintained a responsive marketing website for Rose’s Daycare to
@@ -57,3 +59,4 @@ https://github.com/anthony2025/react-simon
 anthony2025@pm.me  
 (571) 455-4234  
 Alexandria, VA
+Remote Only
