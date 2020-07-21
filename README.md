@@ -9,7 +9,7 @@ Full Stack Development studies
 
 #### TECHNICAL SKILLS
 - Frontend: Proficiency in Javascript (ES6+), Flow/TypeScript, React/Redux, CSS Flexbox/Grid. Experience with Reason/Ocaml, Protocol Buffers, AWS Amplify, and Webpack.
-- Backend: Proficiency in Scala (Play Framework) and NodeJS. Experience with Serverless architectures, Cats/Scalaz, Akka Actors, Category Theory, and Functional Programming.
+- Backend: Proficiency in Scala (Play Framework) and NodeJS. Experience with Serverless architectures, Cats/Scalaz, Akka Actors, and Functional Programming.
 - General: Experience with Linux administration, Devops with AWS/Terraform, Docker containers, Git, CI/CD setup, Selenium testing. Comfortable in Bash, Lua, Python, Java.
 
 #### PROFESSIONAL EXPERIENCE
