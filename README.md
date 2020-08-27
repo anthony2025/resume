@@ -10,14 +10,14 @@ Full Stack Development studies
 #### TECHNICAL SKILLS
 - Frontend: Proficiency in Javascript (ES6+), Flow/TypeScript, React/Redux, CSS Flexbox/Grid. Experience with Reason/Ocaml, Protocol Buffers, AWS Amplify, and Webpack.
 - Backend: Proficiency in Scala (Play Framework) and NodeJS. Experience with Serverless architectures, SQL/NoSQL, Cats/Scalaz, and Functional Programming.
-- General: Experience with Linux administration, Devops with AWS/Terraform, Docker containers, Git, CI/CD setup, Selenium testing. Comfortable in Bash, Lua, Python, Java.
+- General: Experience with Linux administration, Devops with AWS/Terraform, Docker containers, Git, CI/CD setup, Selenium testing. Comfortable in Bash, Lua, Python, and Java.
 
 #### PROFESSIONAL EXPERIENCE
 - BTS Software Solutions, Independent Consultant, June 2019 – August 2019
-  - Worked on the rewrite of a data sharing site. Goals were to improve responsiveness across devices, as well as accessibility, internationalization, and ease of use.
+  - Worked on the rewrite of a data sharing site running React. Goals were to improve responsiveness across devices, as well as accessibility, internationalization, and ease of use.
 - BTS Software Solutions, Software Engineer, August 2017 – June 2019
-  - Conducted the development of a job scheduler for a scientific data server; leveraging AWS services to allow scientists to run experiments on powerful cloud servers.
-  - Architectured a HR application for calculating revenue forecasts and tracking personnel. Succesfully applied functional programming concepts to halve risk calculations. 
+  - As part of DARPA's projects THoR and Prometheus, worked on the development of a scientific data server extensively leveraging AWS cloud services. Collaborated on all fronts of the application: from layout and user experience design, to devops and backend microservices.  
+  - Architectured a HR application for calculating revenue forecasts and tracking personnel. Succesfully applied functional programming concepts to halve risk calculations.
   - Reverse engineered existing graph optimization C++ tooling to conduct experiments on lossless compression schemes for Machine Learning models.
 - Rose’s Daycare LLC, Web Developer, May 2017 – July 2017  
 https://github.com/anthony2025/roses-daycare
@@ -33,11 +33,11 @@ https://github.com/anthony2025/roses-daycare
 #### SIDE PROJECTS
 - React Simon, 2017  
 https://github.com/anthony2025/react-simon
-  - Built a React/Redux emulation of the 80’s game to experiment with RxJS Observables.  
+  Built a React/Redux emulation of the 80’s game to experiment with RxJS Observables.  
 
 #### COMMUNITY WORK
 - Arlington Public Library, 2017
-  - Conducted one-on-one workshops on bicycle mechanics.
+  Conducted one-on-one workshops on bicycle mechanics.
 
 #### CONTACT INFORMATION
 anthony2025@pm.me  
