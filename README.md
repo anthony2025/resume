@@ -30,13 +30,13 @@ https://github.com/anthony2025/roses-daycare
 - Glamorous, 2017
   - A popular CSS-in-JS library. Aided the translation efforts of their documentation.
   
-#### SIDE PROJECTS
+#### SIDE PROJECTS  
 - React Simon, 2017  
-https://github.com/anthony2025/react-simon
+https://github.com/anthony2025/react-simon  
   Built a React/Redux emulation of the 80’s game to experiment with RxJS Observables.  
 
-#### COMMUNITY WORK
-- Arlington Public Library, 2017
+#### COMMUNITY WORK  
+- Arlington Public Library, 2017  
   Conducted one-on-one workshops on bicycle mechanics.
 
 #### CONTACT INFORMATION
